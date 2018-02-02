@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SuperPractise</string>
+    <string name="welcome_msg">WELCOME TO CHEWEY</string>
+    <string name="welcome_desc">An awesome free UI Kit containing over 50+ multicolored screens ranging over 7 categories designed for the iPhone 6!</string>
+    <string name="create_account_button">CREATE AN ACCOUNT</string>
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="log_in_button">LOG IN</string>
+    <string name="terms_and_privacy">Terms and Privacy</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="OR">OR</string>
+    <string name="fb_login">LOG IN WITH FACEBOOK</string>
+    <string name="dont_have_account">Don\'t have account? Sign Up</string>
+
+    <string name="create_account">CREATE AN ACCOUNT</string>
+    <string name="email">Email</string>
+    <string name="email_hint">chewey@gmail.com</string>
+
+    <string name="password_hint">Type your password</string>
+
+    <string name="re_psw">Re Password</string>
+    <string name="re_psw_hint">Repeat your password</string>
+
+    <string name="terms_and_conditions">I Agree To The  Terms &amp; Conditions</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+    <string name="add_photo">Add your photo</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone_no_hint">Phone Number</string>
+    <string name="address_hint">Address</string>
+    <string name="dob_hint">Birthday</string>
+    <string name="save">Save</string>
+    <string name="finish">FINISH</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="term_and_conditions" type="id" />
+    <item name="create_account_button" type="id" />
+    <item name="sign_in_button" type="id" />
+    <item name="log_in_button" type="id" />
+    <item name="forget_password" type="id" />
+    <item name="user_name_editText" type="id" />
+    <item name="password_editText" type="id" />
+    <item name="fb_login_button" type="id" />
+    <item name="email_editText" type="id" />
+    <item name="re_pwd_editText" type="id" />
+    <item name="sign_up_button" type="id" />
+    <item name="full_name_editText" type="id" />
+    <item name="ph_editText" type="id" />
+    <item name="address_editText" type="id" />
+    <item name="dob_editText" type="id" />
+    <item name="save" type="id" />
+    <item name="fbImageView" type="id" />
+    <item name="googlePlusImageView" type="id" />
+    <item name="twitterImageView" type="id" />
+    <item name="instagramImageView" type="id" />
+    <item name="finish" type="id" />
+    <item name="circleImageView" type="id" />
+    <item name="view_pager" type="id" />
+    <item name="nextButton" type="id" />
+    <item name="skipButton" type="id" />
+    <item name="layoutDots" type="id" />
+    <item name="slide1" type="id" />
+    <item name="slide4" type="id" />
+    <item name="slide3" type="id" />
+    <item name="slide2" type="id" />
+</resources>
